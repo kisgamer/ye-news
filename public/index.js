@@ -78,7 +78,7 @@ Feature: Notifications
 // add notifcation settings here:
 const enablePushNotifications = true; // true to enable
 const pushServerBaseURL = ""; // your full push server URL
-const VAPID_PUBLIC_KEY = ""; // public key from push server
+const VAPID_PUBLIC_KEY = "BMbk-FtpqIr0QwYZiB7ZvjjEuODsqni-QdfkhCPYYuUbknosK03mexM5xZ1tNCezGm70KhbhkmyiNL7D7u0y3-k"; // public key from push server
 
 // track permissions for the sake of badging
 let pushNotificationPermissionGranted = false;
