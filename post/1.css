@@ -1,9 +1,16 @@
-body {
-   color: black;
-   background: grey;
-   font-family: Helvetica;
-   font-size: ;
-   margin: auto;
-   width: 50%;
-   padding: 10px;
+
+body { 
+font-size: 2vh; 
+color: black;
+background: grey;
+font-family: Helvetica;
+margin-top: 100px
+
+}
+
+h1 {
+  font-size: 3vh;
+  margin: auto;
+width: 50%;
+padding: 10px;
 }
