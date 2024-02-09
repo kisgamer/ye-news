@@ -76,7 +76,7 @@ Feature: Notifications
 
 *************************************************************************/
 // add notifcation settings here:
-const enablePushNotifications = false; // true to enable
+const enablePushNotifications = true; // true to enable
 const pushServerBaseURL = ""; // your full push server URL
 const VAPID_PUBLIC_KEY = ""; // public key from push server
 

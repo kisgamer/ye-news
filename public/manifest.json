@@ -1,7 +1,7 @@
 {
-  "name": "Hello PWA",
-  "short_name": "Hello PWA",
-  "description": "A webapp folks can install on their phones",
+  "name": "Ye News",
+  "short_name": "Ye News",
+  "description": "Ye News",
   "display": "standalone",
   "icons": [
     {
